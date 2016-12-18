@@ -1,0 +1,12 @@
+c:\users\papanii\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\SFTPshare.exe.config
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\SFTPshare.exe
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\SFTPshare.pdb
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.Form1.resources
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.Properties.Resources.resources
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.csproj.GenerateResource.Cache
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.exe
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.pdb
+C:\Users\PAPANII\documents\visual studio 2015\Projects\SFTPshare\SFTPshare\obj\Debug\SFTPshare.csprojResolveAssemblyReference.cache
+C:\Users\PAPANII\Documents\Visual Studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\Renci.SshNet.dll
+C:\Users\PAPANII\Documents\Visual Studio 2015\Projects\SFTPshare\SFTPshare\bin\Debug\Renci.SshNet.xml
